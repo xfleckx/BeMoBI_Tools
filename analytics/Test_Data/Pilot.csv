@@ -1,0 +1,1189 @@
+11733.507867	Start Experiment
+11733.945913	Begin Condition 'mobi'
+11760.628304	BeginTrial	Training	Maze3	4	4_Tong	Tools
+11763.308303	ShowObject	4_Tong	Tools
+11770.428291	Entering Unit	(0 3)
+11772.160867	Exiting Unit	(0 3)
+11772.165583	Entering Unit	(1 3)
+11772.166957	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+11773.894032	Exiting Unit	(1 3)
+11773.894617	Entering Unit	(2 3)
+11773.895183	Turn	From(1 3)	To(2 3)	I	STRAIGHT
+11776.907371	Exiting Unit	(2 3)
+11776.907950	Entering Unit	(2 2)
+11776.908439	Turn	From(2 3)	To(2 2)	T	RIGHT
+11779.373790	Exiting Unit	(2 2)
+11779.374448	Entering Unit	(3 2)
+11779.375028	Turn	From(2 2)	To(3 2)	L	LEFT
+11781.107013	Exiting Unit	(3 2)
+11781.107579	Entering Unit	(4 2)
+11781.108162	Turn	From(3 2)	To(4 2)	I	STRAIGHT
+11783.973766	Exiting Unit	(4 2)
+11783.974308	Entering Unit	(4 1)
+11783.974856	Turn	From(4 2)	To(4 1)	T	RIGHT
+11785.760149	Exiting Unit	(4 1)
+11785.760775	Entering Unit	(4 0)
+11785.761271	Turn	From(4 1)	To(4 0)	I	STRAIGHT
+11789.133460	Exiting Unit	(4 0)
+11789.134145	Entering Unit	(3 0)
+11789.134711	Turn	From(4 0)	To(3 0)	L	RIGHT
+11794.040225	Exiting Unit	(3 0)
+11794.040856	Entering Unit	(3 1)
+11794.041475	Turn	From(3 0)	To(3 1)	L	RIGHT
+11797.026685	Exiting Unit	(3 1)
+11797.027383	Entering Unit	(2 1)
+11797.027989	Turn	From(3 1)	To(2 1)	L	LEFT
+11798.773032	Exiting Unit	(2 1)
+11798.773695	Entering Unit	(1 1)
+11798.774228	Turn	From(2 1)	To(1 1)	I	STRAIGHT
+11800.506348	Exiting Unit	(1 1)
+11800.506993	Entering Unit	(0 1)
+11800.508819	Turn	From(1 1)	To(0 1)	I	STRAIGHT
+11803.439613	Exiting Unit	(0 1)
+11803.440240	Entering Unit	(0 0)
+11803.440675	Turn	From(0 1)	To(0 0)	T	LEFT
+11804.506109	ObjectFound	Maze3	4	4_Tong	Tools
+11805.842545	Exiting Unit	(0 0)
+11811.213591	EndTrial	Training	Maze3	4	4_Tong	Tools
+11820.505729	BeginTrial	Training	Maze3	0	5_Wrench	Tools
+11823.185839	ShowObject	5_Wrench	Tools
+11829.891981	Entering Unit	(0 3)
+11831.625382	Exiting Unit	(0 3)
+11831.625946	Entering Unit	(1 3)
+11831.626383	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+11833.358488	Exiting Unit	(1 3)
+11833.359159	Entering Unit	(2 3)
+11833.359591	Turn	From(1 3)	To(2 3)	I	STRAIGHT
+11836.385263	Exiting Unit	(2 3)
+11836.385951	Entering Unit	(2 4)
+11836.386496	Turn	From(2 3)	To(2 4)	T	LEFT
+11838.171805	Exiting Unit	(2 4)
+11838.172386	Entering Unit	(2 5)
+11838.172873	Turn	From(2 4)	To(2 5)	I	STRAIGHT
+11840.091586	Exiting Unit	(2 5)
+11840.092316	Entering Unit	(3 5)
+11840.094085	Turn	From(2 5)	To(3 5)	T	RIGHT
+11841.878063	Exiting Unit	(3 5)
+11841.878639	Entering Unit	(4 5)
+11841.879108	Turn	From(3 5)	To(4 5)	I	STRAIGHT
+11844.278078	Exiting Unit	(4 5)
+11844.278672	Entering Unit	(4 4)
+11844.279113	Turn	From(4 5)	To(4 4)	T	RIGHT
+11845.384403	ObjectFound	Maze3	0	5_Wrench	Tools
+11846.718389	Exiting Unit	(4 4)
+11852.091574	EndTrial	Training	Maze3	0	5_Wrench	Tools
+11857.691026	BeginTrial	Training	Maze3	2	2_ScrewDriverM	Tools
+11860.371274	ShowObject	2_ScrewDriverM	Tools
+11867.090685	Entering Unit	(0 3)
+11868.824054	Exiting Unit	(0 3)
+11868.824735	Entering Unit	(1 3)
+11868.825491	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+11870.557156	Exiting Unit	(1 3)
+11870.557753	Entering Unit	(2 3)
+11870.558227	Turn	From(1 3)	To(2 3)	I	STRAIGHT
+11873.277060	Exiting Unit	(2 3)
+11873.277664	Entering Unit	(2 4)
+11873.279282	Turn	From(2 3)	To(2 4)	T	LEFT
+11875.050241	Exiting Unit	(2 4)
+11875.050808	Entering Unit	(2 5)
+11875.051240	Turn	From(2 4)	To(2 5)	I	STRAIGHT
+11876.010317	Exiting Unit	(2 5)
+11876.010947	Entering Unit	(3 5)
+11876.011440	Turn	From(2 5)	To(3 5)	T	RIGHT
+11879.063332	Exiting Unit	(3 5)
+11879.063961	Entering Unit	(4 5)
+11879.064394	Turn	From(3 5)	To(4 5)	I	STRAIGHT
+11881.156817	Exiting Unit	(4 5)
+11881.157393	Entering Unit	(4 6)
+11881.157894	Turn	From(4 5)	To(4 6)	T	LEFT
+11882.956693	Exiting Unit	(4 6)
+11882.957372	Entering Unit	(4 7)
+11882.957839	Turn	From(4 6)	To(4 7)	I	STRAIGHT
+11885.463201	Exiting Unit	(4 7)
+11885.463779	Entering Unit	(3 7)
+11885.464319	Turn	From(4 7)	To(3 7)	L	LEFT
+11887.250110	Exiting Unit	(3 7)
+11887.250748	Entering Unit	(2 7)
+11887.252512	Turn	From(3 7)	To(2 7)	I	STRAIGHT
+11890.356773	Exiting Unit	(2 7)
+11890.357390	Entering Unit	(2 6)
+11890.357888	Turn	From(2 7)	To(2 6)	L	LEFT
+11891.223092	Exiting Unit	(2 6)
+11891.223629	Entering Unit	(1 6)
+11891.224042	Turn	From(2 6)	To(1 6)	L	RIGHT
+11893.849503	Exiting Unit	(1 6)
+11893.850120	Entering Unit	(0 6)
+11893.850707	Turn	From(1 6)	To(0 6)	I	STRAIGHT
+11896.369667	Exiting Unit	(0 6)
+11896.370404	Entering Unit	(0 5)
+11896.370976	Turn	From(0 6)	To(0 5)	T	LEFT
+11898.076037	ObjectFound	Maze3	2	2_ScrewDriverM	Tools
+11899.409974	Exiting Unit	(0 5)
+11904.782808	EndTrial	Training	Maze3	2	2_ScrewDriverM	Tools
+11909.889306	BeginTrial	Training	Maze3	4	4_Tong	Tools
+11912.569400	ShowObject	4_Tong	Tools
+11919.141989	Entering Unit	(0 3)
+11920.888611	Exiting Unit	(0 3)
+11920.889281	Entering Unit	(1 3)
+11920.889925	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+11922.635174	Exiting Unit	(1 3)
+11922.635840	Entering Unit	(2 3)
+11922.636401	Turn	From(1 3)	To(2 3)	I	STRAIGHT
+11924.342061	Exiting Unit	(2 3)
+11924.342733	Entering Unit	(2 2)
+11924.343226	Turn	From(2 3)	To(2 2)	T	RIGHT
+11925.408315	Exiting Unit	(2 2)
+11925.408919	Entering Unit	(3 2)
+11925.409382	Turn	From(2 2)	To(3 2)	L	LEFT
+11927.594923	Exiting Unit	(3 2)
+11927.595595	Entering Unit	(4 2)
+11927.596162	Turn	From(3 2)	To(4 2)	I	STRAIGHT
+11928.434859	Exiting Unit	(4 2)
+11928.435426	Entering Unit	(4 1)
+11928.435865	Turn	From(4 2)	To(4 1)	T	RIGHT
+11931.114905	Exiting Unit	(4 1)
+11931.115591	Entering Unit	(4 0)
+11931.116091	Turn	From(4 1)	To(4 0)	I	STRAIGHT
+11933.368088	Exiting Unit	(4 0)
+11933.368697	Entering Unit	(3 0)
+11933.369184	Turn	From(4 0)	To(3 0)	L	RIGHT
+11935.554907	Exiting Unit	(3 0)
+11935.556462	Entering Unit	(3 1)
+11935.557544	Turn	From(3 0)	To(3 1)	L	RIGHT
+11936.647962	Exiting Unit	(3 1)
+11936.648706	Entering Unit	(2 1)
+11936.649174	Turn	From(3 1)	To(2 1)	L	LEFT
+11939.008092	Exiting Unit	(2 1)
+11939.008767	Entering Unit	(1 1)
+11939.010260	Turn	From(2 1)	To(1 1)	I	STRAIGHT
+11940.741122	Exiting Unit	(1 1)
+11940.742546	Entering Unit	(0 1)
+11940.743186	Turn	From(1 1)	To(0 1)	I	STRAIGHT
+11942.567712	Exiting Unit	(0 1)
+11942.568298	Entering Unit	(0 0)
+11942.568813	Turn	From(0 1)	To(0 0)	T	LEFT
+11943.900815	ObjectFound	Maze3	4	4_Tong	Tools
+11945.234662	Exiting Unit	(0 0)
+11950.608554	EndTrial	Training	Maze3	4	4_Tong	Tools
+11955.007408	BeginTrial	Training	Maze3	2	2_ScrewDriverM	Tools
+11957.687600	ShowObject	2_ScrewDriverM	Tools
+11964.140602	Entering Unit	(0 3)
+11965.900268	Exiting Unit	(0 3)
+11965.901037	Entering Unit	(1 3)
+11965.901657	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+11967.700305	Exiting Unit	(1 3)
+11967.700910	Entering Unit	(2 3)
+11967.701549	Turn	From(1 3)	To(2 3)	I	STRAIGHT
+11968.513494	Exiting Unit	(2 3)
+11968.514159	Entering Unit	(2 4)
+11968.514668	Turn	From(2 3)	To(2 4)	T	LEFT
+11970.406842	Exiting Unit	(2 4)
+11970.407619	Entering Unit	(2 5)
+11970.408135	Turn	From(2 4)	To(2 5)	I	STRAIGHT
+11971.219992	Exiting Unit	(2 5)
+11971.220630	Entering Unit	(3 5)
+11971.221254	Turn	From(2 5)	To(3 5)	T	RIGHT
+11973.086697	Exiting Unit	(3 5)
+11973.087333	Entering Unit	(4 5)
+11973.087838	Turn	From(3 5)	To(4 5)	I	STRAIGHT
+11973.953471	Exiting Unit	(4 5)
+11973.954124	Entering Unit	(4 6)
+11973.954620	Turn	From(4 5)	To(4 6)	T	LEFT
+11975.807276	Exiting Unit	(4 6)
+11975.807836	Entering Unit	(4 7)
+11975.808372	Turn	From(4 6)	To(4 7)	I	STRAIGHT
+11976.953152	Exiting Unit	(4 7)
+11976.953739	Entering Unit	(3 7)
+11976.954224	Turn	From(4 7)	To(3 7)	L	LEFT
+11978.766500	Exiting Unit	(3 7)
+11978.767391	Entering Unit	(2 7)
+11978.768076	Turn	From(3 7)	To(2 7)	I	STRAIGHT
+11980.206444	Exiting Unit	(2 7)
+11980.207137	Entering Unit	(2 6)
+11980.207732	Turn	From(2 7)	To(2 6)	L	LEFT
+11981.153106	Exiting Unit	(2 6)
+11981.153746	Entering Unit	(1 6)
+11981.154298	Turn	From(2 6)	To(1 6)	L	RIGHT
+11983.126350	Exiting Unit	(1 6)
+11983.127021	Entering Unit	(0 6)
+11983.128406	Turn	From(1 6)	To(0 6)	I	STRAIGHT
+11984.446438	Exiting Unit	(0 6)
+11984.447068	Entering Unit	(0 5)
+11984.447511	Turn	From(0 6)	To(0 5)	T	LEFT
+11986.219229	ObjectFound	Maze3	2	2_ScrewDriverM	Tools
+11987.553156	Exiting Unit	(0 5)
+11992.926019	EndTrial	Training	Maze3	2	2_ScrewDriverM	Tools
+11996.179251	BeginTrial	Training	Maze3	0	5_Wrench	Tools
+11998.859333	ShowObject	5_Wrench	Tools
+12005.445536	Entering Unit	(0 3)
+12007.178899	Exiting Unit	(0 3)
+12007.179533	Entering Unit	(1 3)
+12007.180208	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12008.954043	Exiting Unit	(1 3)
+12008.954621	Entering Unit	(2 3)
+12008.955078	Turn	From(1 3)	To(2 3)	I	STRAIGHT
+12010.125432	Exiting Unit	(2 3)
+12010.126072	Entering Unit	(2 4)
+12010.126538	Turn	From(2 3)	To(2 4)	T	LEFT
+12011.991894	Exiting Unit	(2 4)
+12011.993522	Entering Unit	(2 5)
+12011.994104	Turn	From(2 4)	To(2 5)	I	STRAIGHT
+12012.818391	Exiting Unit	(2 5)
+12012.819041	Entering Unit	(3 5)
+12012.819546	Turn	From(2 5)	To(3 5)	T	RIGHT
+12014.644958	Exiting Unit	(3 5)
+12014.645609	Entering Unit	(4 5)
+12014.646255	Turn	From(3 5)	To(4 5)	I	STRAIGHT
+12015.844960	Exiting Unit	(4 5)
+12015.845574	Entering Unit	(4 4)
+12015.846167	Turn	From(4 5)	To(4 4)	T	RIGHT
+12024.244644	ObjectFound	Maze3	0	5_Wrench	Tools
+12025.578245	Exiting Unit	(4 4)
+12030.951316	EndTrial	Training	Maze3	0	5_Wrench	Tools
+12035.711251	BeginTrial	Experiment	Maze3	2	2_ScrewDriverM	Tools
+12035.712143	ShowObject	2_ScrewDriverM	Tools
+12042.297530	Entering Unit	(0 3)
+12044.030904	Exiting Unit	(0 3)
+12044.032113	Entering Unit	(1 3)
+12044.032699	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12045.763828	Exiting Unit	(1 3)
+12045.764482	Entering Unit	(2 3)
+12045.765010	Turn	From(1 3)	To(2 3)	I	STRAIGHT
+12047.870442	Exiting Unit	(2 3)
+12047.871046	Entering Unit	(2 4)
+12047.871610	Turn	From(2 3)	To(2 4)	T	LEFT
+12049.630405	Exiting Unit	(2 4)
+12049.631067	Entering Unit	(2 5)
+12049.632561	Turn	From(2 4)	To(2 5)	I	STRAIGHT
+12052.057093	Exiting Unit	(2 5)
+12052.057747	Entering Unit	(1 5)
+12052.058616	Incorrect	From(2 5)	To(1 5)	Expected(3 5)	T	RIGHT
+12055.896832	Exiting Unit	(1 5)
+12055.897470	Entering Unit	(3 5)
+12055.898768	Turn	From(2 5)	To(3 5)	T	RIGHT
+12057.696714	Exiting Unit	(3 5)
+12057.697321	Entering Unit	(4 5)
+12057.697892	Turn	From(3 5)	To(4 5)	I	STRAIGHT
+12058.536646	Exiting Unit	(4 5)
+12058.537233	Entering Unit	(4 6)
+12058.537661	Turn	From(4 5)	To(4 6)	T	LEFT
+12060.963368	Exiting Unit	(4 6)
+12060.963962	Entering Unit	(4 7)
+12060.964484	Turn	From(4 6)	To(4 7)	I	STRAIGHT
+12062.976601	Exiting Unit	(4 7)
+12062.977157	Entering Unit	(3 7)
+12062.977653	Turn	From(4 7)	To(3 7)	L	LEFT
+12064.790080	Exiting Unit	(3 7)
+12064.790736	Entering Unit	(2 7)
+12064.791183	Turn	From(3 7)	To(2 7)	I	STRAIGHT
+12067.416480	Exiting Unit	(2 7)
+12067.417061	Entering Unit	(2 6)
+12067.417537	Turn	From(2 7)	To(2 6)	L	LEFT
+12068.523062	Exiting Unit	(2 6)
+12068.523676	Entering Unit	(1 6)
+12068.524099	Turn	From(2 6)	To(1 6)	L	RIGHT
+12070.949638	Exiting Unit	(1 6)
+12070.950304	Entering Unit	(0 6)
+12070.950889	Turn	From(1 6)	To(0 6)	I	STRAIGHT
+12074.056369	Exiting Unit	(0 6)
+12074.056975	Entering Unit	(0 5)
+12074.057515	Turn	From(0 6)	To(0 5)	T	LEFT
+12075.576022	ObjectFound	Maze3	2	2_ScrewDriverM	Tools
+12076.909622	Exiting Unit	(0 5)
+12082.282927	EndTrial	Experiment	Maze3	2	2_ScrewDriverM	Tools
+12087.135814	BeginTrial	Experiment	Maze3	4	4_Tong	Tools
+12087.136623	ShowObject	4_Tong	Tools
+12093.508994	Entering Unit	(0 3)
+12095.255408	Exiting Unit	(0 3)
+12095.256019	Entering Unit	(1 3)
+12095.257548	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12097.001985	Exiting Unit	(1 3)
+12097.002635	Entering Unit	(2 3)
+12097.003555	Turn	From(1 3)	To(2 3)	I	STRAIGHT
+12099.175379	Exiting Unit	(2 3)
+12099.176068	Entering Unit	(2 2)
+12099.176638	Turn	From(2 3)	To(2 2)	T	RIGHT
+12100.268736	Exiting Unit	(2 2)
+12100.269390	Entering Unit	(3 2)
+12100.269919	Turn	From(2 2)	To(3 2)	L	LEFT
+12102.535019	Exiting Unit	(3 2)
+12102.535597	Entering Unit	(4 2)
+12102.536066	Turn	From(3 2)	To(4 2)	I	STRAIGHT
+12104.442516	Exiting Unit	(4 2)
+12104.443104	Entering Unit	(4 1)
+12104.443656	Turn	From(4 2)	To(4 1)	T	RIGHT
+12106.228455	Exiting Unit	(4 1)
+12106.229109	Entering Unit	(4 0)
+12106.229616	Turn	From(4 1)	To(4 0)	I	STRAIGHT
+12108.121752	Exiting Unit	(4 0)
+12108.122482	Entering Unit	(3 0)
+12108.123038	Turn	From(4 0)	To(3 0)	L	RIGHT
+12114.454723	Exiting Unit	(3 0)
+12114.455378	Entering Unit	(4 0)
+12114.455844	Incorrect	From(3 0)	To(4 0)	Expected(3 1)	L	RIGHT
+12127.401124	Exiting Unit	(4 0)
+12127.401835	Entering Unit	(3 1)
+12127.402414	Turn	From(3 0)	To(3 1)	L	RIGHT
+12128.241078	Exiting Unit	(3 1)
+12128.241668	Entering Unit	(2 1)
+12128.242180	Turn	From(3 1)	To(2 1)	L	LEFT
+12130.267515	Exiting Unit	(2 1)
+12130.268091	Entering Unit	(1 1)
+12130.268521	Turn	From(2 1)	To(1 1)	I	STRAIGHT
+12132.013974	Exiting Unit	(1 1)
+12132.014540	Entering Unit	(0 1)
+12132.015007	Turn	From(1 1)	To(0 1)	I	STRAIGHT
+12133.827359	Exiting Unit	(0 1)
+12133.827958	Entering Unit	(0 0)
+12133.828462	Turn	From(0 1)	To(0 0)	T	LEFT
+12135.346888	ObjectFound	Maze3	4	4_Tong	Tools
+12136.680771	Exiting Unit	(0 0)
+12142.053806	EndTrial	Experiment	Maze3	4	4_Tong	Tools
+12146.347099	BeginTrial	Experiment	Maze3	0	5_Wrench	Tools
+12146.347874	ShowObject	5_Wrench	Tools
+12152.760171	Entering Unit	(0 3)
+12154.493428	Exiting Unit	(0 3)
+12154.494082	Entering Unit	(1 3)
+12154.494611	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12156.533057	Exiting Unit	(1 3)
+12156.533752	Entering Unit	(2 3)
+12156.535541	Turn	From(1 3)	To(2 3)	I	STRAIGHT
+12157.399704	Exiting Unit	(2 3)
+12157.400352	Entering Unit	(2 4)
+12157.401926	Turn	From(2 3)	To(2 4)	T	LEFT
+12159.959994	Exiting Unit	(2 4)
+12159.960641	Entering Unit	(2 5)
+12159.961079	Turn	From(2 4)	To(2 5)	I	STRAIGHT
+12160.853058	Exiting Unit	(2 5)
+12160.853770	Entering Unit	(3 5)
+12160.854321	Turn	From(2 5)	To(3 5)	T	RIGHT
+12163.426123	Exiting Unit	(3 5)
+12163.426796	Entering Unit	(4 5)
+12163.427524	Turn	From(3 5)	To(4 5)	I	STRAIGHT
+12165.546065	Exiting Unit	(4 5)
+12165.546721	Entering Unit	(4 4)
+12165.547201	Turn	From(4 5)	To(4 4)	T	RIGHT
+12166.679143	ObjectFound	Maze3	0	5_Wrench	Tools
+12168.013018	Exiting Unit	(4 4)
+12173.386130	EndTrial	Experiment	Maze3	0	5_Wrench	Tools
+12177.159205	BeginTrial	Training	Maze4	4	3_Horse	Toys_2
+12179.839184	ShowObject	3_Horse	Toys_2
+12186.332264	Entering Unit	(0 3)
+12188.065383	Exiting Unit	(0 3)
+12188.065986	Entering Unit	(1 3)
+12188.066617	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12191.025242	Exiting Unit	(1 3)
+12191.025900	Entering Unit	(1 2)
+12191.026394	Turn	From(1 3)	To(1 2)	T	RIGHT
+12192.851910	Exiting Unit	(1 2)
+12192.852594	Entering Unit	(1 1)
+12192.854394	Turn	From(1 2)	To(1 1)	I	STRAIGHT
+12194.238374	Exiting Unit	(1 1)
+12194.239039	Entering Unit	(2 1)
+12194.239503	Turn	From(1 1)	To(2 1)	T	LEFT
+12195.985163	Exiting Unit	(2 1)
+12195.985812	Entering Unit	(2 0)
+12195.986387	Turn	From(2 1)	To(2 0)	L	RIGHT
+12197.944888	Exiting Unit	(2 0)
+12197.945465	Entering Unit	(3 0)
+12197.946268	Turn	From(2 0)	To(3 0)	T	LEFT
+12199.104538	ObjectFound	Maze4	4	3_Horse	Toys_2
+12200.438268	Exiting Unit	(3 0)
+12205.811553	EndTrial	Training	Maze4	4	3_Horse	Toys_2
+12209.171252	BeginTrial	Training	Maze4	2	4_Tricycle	Toys_2
+12211.851759	ShowObject	4_Tricycle	Toys_2
+12218.664129	Entering Unit	(0 3)
+12220.397296	Exiting Unit	(0 3)
+12220.397871	Entering Unit	(1 3)
+12220.398330	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12223.690837	Exiting Unit	(1 3)
+12223.691510	Entering Unit	(1 4)
+12223.692099	Turn	From(1 3)	To(1 4)	T	LEFT
+12226.770493	Exiting Unit	(1 4)
+12226.771086	Entering Unit	(0 4)
+12226.771507	Turn	From(1 4)	To(0 4)	T	LEFT
+12229.783746	Exiting Unit	(0 4)
+12229.784359	Entering Unit	(0 5)
+12229.784882	Turn	From(0 4)	To(0 5)	L	RIGHT
+12232.410549	Exiting Unit	(0 5)
+12232.411589	Entering Unit	(1 5)
+12232.411994	Turn	From(0 5)	To(1 5)	L	RIGHT
+12234.903468	Exiting Unit	(1 5)
+12234.904055	Entering Unit	(1 6)
+12234.904563	Turn	From(1 5)	To(1 6)	L	LEFT
+12237.743436	Exiting Unit	(1 6)
+12237.744091	Entering Unit	(2 6)
+12237.744588	Turn	From(1 6)	To(2 6)	T	RIGHT
+12240.503459	Exiting Unit	(2 6)
+12240.504057	Entering Unit	(2 5)
+12240.504604	Turn	From(2 6)	To(2 5)	L	RIGHT
+12241.689911	Exiting Unit	(2 5)
+12241.690490	Entering Unit	(3 5)
+12241.691020	Turn	From(2 5)	To(3 5)	L	LEFT
+12243.303205	Exiting Unit	(3 5)
+12243.303798	Entering Unit	(3 4)
+12243.304360	Turn	From(3 5)	To(3 4)	T	RIGHT
+12245.089582	ObjectFound	Maze4	2	4_Tricycle	Toys_2
+12246.423357	Exiting Unit	(3 4)
+12251.796376	EndTrial	Training	Maze4	2	4_Tricycle	Toys_2
+12256.276089	BeginTrial	Training	Maze4	0	5_TrainCart	Toys_2
+12258.956275	ShowObject	5_TrainCart	Toys_2
+12265.582651	Entering Unit	(0 3)
+12267.315626	Exiting Unit	(0 3)
+12267.316231	Entering Unit	(1 3)
+12267.316784	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12269.729044	Exiting Unit	(1 3)
+12269.729692	Entering Unit	(1 4)
+12269.730258	Turn	From(1 3)	To(1 4)	T	LEFT
+12272.382226	Exiting Unit	(1 4)
+12272.382884	Entering Unit	(0 4)
+12272.383530	Turn	From(1 4)	To(0 4)	T	LEFT
+12273.568724	Exiting Unit	(0 4)
+12273.569293	Entering Unit	(0 5)
+12273.569689	Turn	From(0 4)	To(0 5)	L	RIGHT
+12276.995484	Exiting Unit	(0 5)
+12276.996088	Entering Unit	(1 5)
+12276.996615	Turn	From(0 5)	To(1 5)	L	RIGHT
+12277.848585	Exiting Unit	(1 5)
+12277.849201	Entering Unit	(1 6)
+12277.849632	Turn	From(1 5)	To(1 6)	L	LEFT
+12280.622016	Exiting Unit	(1 6)
+12280.622784	Entering Unit	(0 6)
+12280.623377	Turn	From(1 6)	To(0 6)	T	LEFT
+12281.794778	ObjectFound	Maze4	0	5_TrainCart	Toys_2
+12283.128522	Exiting Unit	(0 6)
+12288.501589	EndTrial	Training	Maze4	0	5_TrainCart	Toys_2
+12293.048095	BeginTrial	Training	Maze4	2	4_Tricycle	Toys_2
+12295.729259	ShowObject	4_Tricycle	Toys_2
+12302.554479	Entering Unit	(0 3)
+12304.301119	Exiting Unit	(0 3)
+12304.301689	Entering Unit	(1 3)
+12304.302374	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12306.567544	Exiting Unit	(1 3)
+12306.568239	Entering Unit	(1 4)
+12306.569141	Turn	From(1 3)	To(1 4)	T	LEFT
+12309.420723	Exiting Unit	(1 4)
+12309.421376	Entering Unit	(0 4)
+12309.421831	Turn	From(1 4)	To(0 4)	T	LEFT
+12310.274977	Exiting Unit	(0 4)
+12310.275614	Entering Unit	(0 5)
+12310.276096	Turn	From(0 4)	To(0 5)	L	RIGHT
+12312.593883	Exiting Unit	(0 5)
+12312.594475	Entering Unit	(1 5)
+12312.595882	Turn	From(0 5)	To(1 5)	L	RIGHT
+12313.794072	Exiting Unit	(1 5)
+12313.794712	Entering Unit	(1 6)
+12313.795202	Turn	From(1 5)	To(1 6)	L	LEFT
+12315.207265	Exiting Unit	(1 6)
+12315.207834	Entering Unit	(2 6)
+12315.208236	Turn	From(1 6)	To(2 6)	T	RIGHT
+12318.167445	Exiting Unit	(2 6)
+12318.168737	Entering Unit	(2 5)
+12318.169295	Turn	From(2 6)	To(2 5)	L	RIGHT
+12319.460350	Exiting Unit	(2 5)
+12319.460989	Entering Unit	(3 5)
+12319.461513	Turn	From(2 5)	To(3 5)	L	LEFT
+12321.660252	Exiting Unit	(3 5)
+12321.660844	Entering Unit	(3 4)
+12321.661400	Turn	From(3 5)	To(3 4)	T	RIGHT
+12323.019996	ObjectFound	Maze4	2	4_Tricycle	Toys_2
+12324.353914	Exiting Unit	(3 4)
+12329.726783	EndTrial	Training	Maze4	2	4_Tricycle	Toys_2
+12333.753304	BeginTrial	Training	Maze4	0	5_TrainCart	Toys_2
+12336.433691	ShowObject	5_TrainCart	Toys_2
+12343.086308	Entering Unit	(0 3)
+12344.819495	Exiting Unit	(0 3)
+12344.820080	Entering Unit	(1 3)
+12344.820672	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12347.099390	Exiting Unit	(1 3)
+12347.099972	Entering Unit	(1 4)
+12347.100471	Turn	From(1 3)	To(1 4)	T	LEFT
+12349.805997	Exiting Unit	(1 4)
+12349.806569	Entering Unit	(0 4)
+12349.807165	Turn	From(1 4)	To(0 4)	T	LEFT
+12350.659200	Exiting Unit	(0 4)
+12350.659857	Entering Unit	(0 5)
+12350.660280	Turn	From(0 4)	To(0 5)	L	RIGHT
+12353.272409	Exiting Unit	(0 5)
+12353.272985	Entering Unit	(1 5)
+12353.273482	Turn	From(0 5)	To(1 5)	L	RIGHT
+12354.365748	Exiting Unit	(1 5)
+12354.366408	Entering Unit	(1 6)
+12354.367012	Turn	From(1 5)	To(1 6)	L	LEFT
+12357.605794	Exiting Unit	(1 6)
+12357.606445	Entering Unit	(0 6)
+12357.606912	Turn	From(1 6)	To(0 6)	T	LEFT
+12358.645287	ObjectFound	Maze4	0	5_TrainCart	Toys_2
+12359.979354	Exiting Unit	(0 6)
+12365.352235	EndTrial	Training	Maze4	0	5_TrainCart	Toys_2
+12370.138556	BeginTrial	Training	Maze4	4	3_Horse	Toys_2
+12372.818748	ShowObject	3_Horse	Toys_2
+12380.164922	Entering Unit	(0 3)
+12381.911562	Exiting Unit	(0 3)
+12381.912141	Entering Unit	(1 3)
+12381.912693	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12384.271438	Exiting Unit	(1 3)
+12384.272042	Entering Unit	(1 2)
+12384.272537	Turn	From(1 3)	To(1 2)	T	RIGHT
+12386.058014	Exiting Unit	(1 2)
+12386.058695	Entering Unit	(1 1)
+12386.059237	Turn	From(1 2)	To(1 1)	I	STRAIGHT
+12386.924809	Exiting Unit	(1 1)
+12386.925490	Entering Unit	(2 1)
+12386.925953	Turn	From(1 1)	To(2 1)	T	LEFT
+12389.097760	Exiting Unit	(2 1)
+12389.098460	Entering Unit	(2 0)
+12389.099035	Turn	From(2 1)	To(2 0)	L	RIGHT
+12390.444502	Exiting Unit	(2 0)
+12390.445071	Entering Unit	(3 0)
+12390.445494	Turn	From(2 0)	To(3 0)	T	LEFT
+12392.830789	ObjectFound	Maze4	4	3_Horse	Toys_2
+12394.164468	Exiting Unit	(3 0)
+12399.537448	EndTrial	Training	Maze4	4	3_Horse	Toys_2
+12402.497564	BeginTrial	Experiment	Maze4	4	3_Horse	Toys_2
+12402.498267	ShowObject	3_Horse	Toys_2
+12410.017079	Entering Unit	(0 3)
+12411.750414	Exiting Unit	(0 3)
+12411.750997	Entering Unit	(1 3)
+12411.751418	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12414.456795	Exiting Unit	(1 3)
+12414.457457	Entering Unit	(1 2)
+12414.458075	Turn	From(1 3)	To(1 2)	T	RIGHT
+12416.390253	Exiting Unit	(1 2)
+12416.391005	Entering Unit	(1 1)
+12416.391456	Turn	From(1 2)	To(1 1)	I	STRAIGHT
+12417.523452	Exiting Unit	(1 1)
+12417.524024	Entering Unit	(2 1)
+12417.524491	Turn	From(1 1)	To(2 1)	T	LEFT
+12419.429889	Exiting Unit	(2 1)
+12419.430470	Entering Unit	(2 0)
+12419.430977	Turn	From(2 1)	To(2 0)	L	RIGHT
+12421.109955	Exiting Unit	(2 0)
+12421.110579	Entering Unit	(3 0)
+12421.111158	Turn	From(2 0)	To(3 0)	T	LEFT
+12422.269693	ObjectFound	Maze4	4	3_Horse	Toys_2
+12423.603350	Exiting Unit	(3 0)
+12428.976330	EndTrial	Experiment	Maze4	4	3_Horse	Toys_2
+12431.696448	BeginTrial	Experiment	Maze4	2	4_Tricycle	Toys_2
+12431.697215	ShowObject	4_Tricycle	Toys_2
+12438.242823	Entering Unit	(0 3)
+12439.976104	Exiting Unit	(0 3)
+12439.976666	Entering Unit	(1 3)
+12439.977182	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12442.215963	Exiting Unit	(1 3)
+12442.216553	Entering Unit	(1 4)
+12442.217194	Turn	From(1 3)	To(1 4)	T	LEFT
+12444.762285	Exiting Unit	(1 4)
+12444.762869	Entering Unit	(0 4)
+12444.763335	Turn	From(1 4)	To(0 4)	T	LEFT
+12446.015721	Exiting Unit	(0 4)
+12446.016298	Entering Unit	(0 5)
+12446.016752	Turn	From(0 4)	To(0 5)	L	RIGHT
+12447.975712	Exiting Unit	(0 5)
+12447.976293	Entering Unit	(1 5)
+12447.976747	Turn	From(0 5)	To(1 5)	L	RIGHT
+12449.068794	Exiting Unit	(1 5)
+12449.069448	Entering Unit	(1 6)
+12449.070066	Turn	From(1 5)	To(1 6)	L	LEFT
+12450.495419	Exiting Unit	(1 6)
+12450.496002	Entering Unit	(2 6)
+12450.496536	Turn	From(1 6)	To(2 6)	T	RIGHT
+12453.228730	Exiting Unit	(2 6)
+12453.229342	Entering Unit	(2 5)
+12453.230082	Turn	From(2 6)	To(2 5)	L	RIGHT
+12454.175468	Exiting Unit	(2 5)
+12454.176788	Entering Unit	(3 5)
+12454.177243	Turn	From(2 5)	To(3 5)	L	LEFT
+12455.535389	Exiting Unit	(3 5)
+12455.536127	Entering Unit	(3 4)
+12455.537630	Turn	From(3 5)	To(3 4)	T	RIGHT
+12457.268291	ObjectFound	Maze4	2	4_Tricycle	Toys_2
+12458.602216	Exiting Unit	(3 4)
+12463.975084	EndTrial	Experiment	Maze4	2	4_Tricycle	Toys_2
+12467.601754	BeginTrial	Experiment	Maze4	0	5_TrainCart	Toys_2
+12467.602496	ShowObject	5_TrainCart	Toys_2
+12474.134745	Entering Unit	(0 3)
+12475.867866	Exiting Unit	(0 3)
+12475.868518	Entering Unit	(1 3)
+12475.870004	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12478.361119	Exiting Unit	(1 3)
+12478.361718	Entering Unit	(1 4)
+12478.362466	Turn	From(1 3)	To(1 4)	T	LEFT
+12480.747778	Exiting Unit	(1 4)
+12480.748441	Entering Unit	(0 4)
+12480.749069	Turn	From(1 4)	To(0 4)	T	LEFT
+12481.681102	Exiting Unit	(0 4)
+12481.682469	Entering Unit	(0 5)
+12481.682953	Turn	From(0 4)	To(0 5)	L	RIGHT
+12484.614283	Exiting Unit	(0 5)
+12484.614890	Entering Unit	(1 5)
+12484.615398	Turn	From(0 5)	To(1 5)	L	RIGHT
+12486.680741	Exiting Unit	(1 5)
+12486.681393	Entering Unit	(1 6)
+12486.681944	Turn	From(1 5)	To(1 6)	L	LEFT
+12489.014204	Exiting Unit	(1 6)
+12489.014877	Entering Unit	(0 6)
+12489.015464	Turn	From(1 6)	To(0 6)	T	LEFT
+12490.307079	ObjectFound	Maze4	0	5_TrainCart	Toys_2
+12491.640737	Exiting Unit	(0 6)
+12497.013874	EndTrial	Experiment	Maze4	0	5_TrainCart	Toys_2
+12500.827010	BeginTrial	Training	Maze2	1	2_Bucket	Container
+12503.507606	ShowObject	2_Bucket	Container
+12510.106930	Entering Unit	(0 3)
+12511.840104	Exiting Unit	(0 3)
+12511.840794	Entering Unit	(1 3)
+12511.841355	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12514.533176	Exiting Unit	(1 3)
+12514.533804	Entering Unit	(1 2)
+12514.534295	Turn	From(1 3)	To(1 2)	T	RIGHT
+12516.599687	Exiting Unit	(1 2)
+12516.600284	Entering Unit	(1 1)
+12516.600835	Turn	From(1 2)	To(1 1)	I	STRAIGHT
+12517.413008	Exiting Unit	(1 1)
+12517.413667	Entering Unit	(2 1)
+12517.414274	Turn	From(1 1)	To(2 1)	T	LEFT
+12519.986857	Exiting Unit	(2 1)
+12519.987521	Entering Unit	(2 0)
+12519.988012	Turn	From(2 1)	To(2 0)	L	RIGHT
+12520.826178	Exiting Unit	(2 0)
+12520.826779	Entering Unit	(3 0)
+12520.827326	Turn	From(2 0)	To(3 0)	T	LEFT
+12523.439715	Exiting Unit	(3 0)
+12523.440404	Entering Unit	(3 1)
+12523.440982	Turn	From(3 0)	To(3 1)	L	LEFT
+12525.506366	Exiting Unit	(3 1)
+12525.507001	Entering Unit	(3 2)
+12525.507522	Turn	From(3 1)	To(3 2)	I	STRAIGHT
+12527.239367	Exiting Unit	(3 2)
+12527.239996	Entering Unit	(3 3)
+12527.241557	Turn	From(3 2)	To(3 3)	I	STRAIGHT
+12529.186106	Exiting Unit	(3 3)
+12529.186797	Entering Unit	(2 3)
+12529.187319	Turn	From(3 3)	To(2 3)	L	LEFT
+12532.506012	Exiting Unit	(2 3)
+12532.506668	Entering Unit	(2 2)
+12532.507191	Turn	From(2 3)	To(2 2)	T	LEFT
+12533.958865	ObjectFound	Maze2	1	2_Bucket	Container
+12535.292586	Exiting Unit	(2 2)
+12540.665624	EndTrial	Training	Maze2	1	2_Bucket	Container
+12545.945572	BeginTrial	Training	Maze2	4	4_TrashCan	Container
+12548.625618	ShowObject	4_TrashCan	Container
+12555.252691	Entering Unit	(0 3)
+12556.985197	Exiting Unit	(0 3)
+12556.985790	Entering Unit	(1 3)
+12556.986311	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12558.851547	Exiting Unit	(1 3)
+12558.852166	Entering Unit	(1 4)
+12558.852762	Turn	From(1 3)	To(1 4)	T	LEFT
+12560.651590	Exiting Unit	(1 4)
+12560.652254	Entering Unit	(1 5)
+12560.654264	Turn	From(1 4)	To(1 5)	I	STRAIGHT
+12562.478091	Exiting Unit	(1 5)
+12562.478677	Entering Unit	(2 5)
+12562.479151	Turn	From(1 5)	To(2 5)	T	RIGHT
+12563.411214	Exiting Unit	(2 5)
+12563.411802	Entering Unit	(2 6)
+12563.412229	Turn	From(2 5)	To(2 6)	L	LEFT
+12564.677820	Exiting Unit	(2 6)
+12564.678400	Entering Unit	(3 6)
+12564.678891	Turn	From(2 6)	To(3 6)	T	RIGHT
+12568.078008	Exiting Unit	(3 6)
+12568.078678	Entering Unit	(3 5)
+12568.079102	Turn	From(3 6)	To(3 5)	L	RIGHT
+12569.157536	ObjectFound	Maze2	4	4_TrashCan	Container
+12570.491449	Exiting Unit	(3 5)
+12575.864236	EndTrial	Training	Maze2	4	4_TrashCan	Container
+12578.824119	BeginTrial	Training	Maze2	3	1_Barrel	Container
+12581.504320	ShowObject	1_Barrel	Container
+12587.957048	Entering Unit	(0 3)
+12589.690323	Exiting Unit	(0 3)
+12589.690902	Entering Unit	(1 3)
+12589.691393	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12592.690206	Exiting Unit	(1 3)
+12592.690808	Entering Unit	(1 4)
+12592.691615	Turn	From(1 3)	To(1 4)	T	LEFT
+12594.436837	Exiting Unit	(1 4)
+12594.437409	Entering Unit	(1 5)
+12594.437953	Turn	From(1 4)	To(1 5)	I	STRAIGHT
+12596.156922	Exiting Unit	(1 5)
+12596.157501	Entering Unit	(2 5)
+12596.158017	Turn	From(1 5)	To(2 5)	T	RIGHT
+12597.409936	Exiting Unit	(2 5)
+12597.410601	Entering Unit	(2 6)
+12597.411260	Turn	From(2 5)	To(2 6)	L	LEFT
+12600.383189	Exiting Unit	(2 6)
+12600.383786	Entering Unit	(1 6)
+12600.384401	Turn	From(2 6)	To(1 6)	T	LEFT
+12601.556217	ObjectFound	Maze2	3	1_Barrel	Container
+12602.890287	Exiting Unit	(1 6)
+12608.263358	EndTrial	Training	Maze2	3	1_Barrel	Container
+12611.236365	BeginTrial	Training	Maze2	1	2_Bucket	Container
+12613.916492	ShowObject	2_Bucket	Container
+12619.902716	Entering Unit	(0 3)
+12621.636042	Exiting Unit	(0 3)
+12621.636703	Entering Unit	(1 3)
+12621.637346	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12623.822415	Exiting Unit	(1 3)
+12623.823005	Entering Unit	(1 2)
+12623.823430	Turn	From(1 3)	To(1 2)	T	RIGHT
+12626.129095	Exiting Unit	(1 2)
+12626.129752	Entering Unit	(1 1)
+12626.130316	Turn	From(1 2)	To(1 1)	I	STRAIGHT
+12627.382242	Exiting Unit	(1 1)
+12627.382821	Entering Unit	(2 1)
+12627.383283	Turn	From(1 1)	To(2 1)	T	LEFT
+12629.408956	Exiting Unit	(2 1)
+12629.409559	Entering Unit	(2 0)
+12629.410113	Turn	From(2 1)	To(2 0)	L	RIGHT
+12630.435427	Exiting Unit	(2 0)
+12630.436570	Entering Unit	(3 0)
+12630.437144	Turn	From(2 0)	To(3 0)	T	LEFT
+12632.795431	Exiting Unit	(3 0)
+12632.796003	Entering Unit	(3 1)
+12632.796444	Turn	From(3 0)	To(3 1)	L	LEFT
+12634.542067	Exiting Unit	(3 1)
+12634.542749	Entering Unit	(3 2)
+12634.543205	Turn	From(3 1)	To(3 2)	I	STRAIGHT
+12636.288791	Exiting Unit	(3 2)
+12636.289480	Entering Unit	(3 3)
+12636.289950	Turn	From(3 2)	To(3 3)	I	STRAIGHT
+12638.622097	Exiting Unit	(3 3)
+12638.622768	Entering Unit	(2 3)
+12638.623357	Turn	From(3 3)	To(2 3)	L	LEFT
+12641.208654	Exiting Unit	(2 3)
+12641.209375	Entering Unit	(2 2)
+12641.209927	Turn	From(2 3)	To(2 2)	T	LEFT
+12642.315046	ObjectFound	Maze2	1	2_Bucket	Container
+12643.648604	Exiting Unit	(2 2)
+12649.021784	EndTrial	Training	Maze2	1	2_Bucket	Container
+12651.128488	BeginTrial	Training	Maze2	3	1_Barrel	Container
+12653.808257	ShowObject	1_Barrel	Container
+12659.874598	Entering Unit	(0 3)
+12661.607847	Exiting Unit	(0 3)
+12661.608520	Entering Unit	(1 3)
+12661.609132	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12663.380946	Exiting Unit	(1 3)
+12663.381563	Entering Unit	(1 4)
+12663.382008	Turn	From(1 3)	To(1 4)	T	LEFT
+12665.167502	Exiting Unit	(1 4)
+12665.168166	Entering Unit	(1 5)
+12665.168732	Turn	From(1 4)	To(1 5)	I	STRAIGHT
+12666.807380	Exiting Unit	(1 5)
+12666.807973	Entering Unit	(2 5)
+12666.808460	Turn	From(1 5)	To(2 5)	T	RIGHT
+12667.967467	Exiting Unit	(2 5)
+12667.968104	Entering Unit	(2 6)
+12667.968621	Turn	From(2 5)	To(2 6)	L	LEFT
+12671.287344	Exiting Unit	(2 6)
+12671.287928	Entering Unit	(1 6)
+12671.289408	Turn	From(2 6)	To(1 6)	T	LEFT
+12673.340258	ObjectFound	Maze2	3	1_Barrel	Container
+12674.674221	Exiting Unit	(1 6)
+12680.047291	EndTrial	Training	Maze2	3	1_Barrel	Container
+12683.794443	BeginTrial	Training	Maze2	4	4_TrashCan	Container
+12686.473983	ShowObject	4_TrashCan	Container
+12693.393438	Entering Unit	(0 3)
+12695.139940	Exiting Unit	(0 3)
+12695.140607	Entering Unit	(1 3)
+12695.141195	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12697.539908	Exiting Unit	(1 3)
+12697.540481	Entering Unit	(1 4)
+12697.540993	Turn	From(1 3)	To(1 4)	T	LEFT
+12699.286351	Exiting Unit	(1 4)
+12699.286994	Entering Unit	(1 5)
+12699.287425	Turn	From(1 4)	To(1 5)	I	STRAIGHT
+12700.833142	Exiting Unit	(1 5)
+12700.833723	Entering Unit	(2 5)
+12700.834315	Turn	From(1 5)	To(2 5)	T	RIGHT
+12702.046322	Exiting Unit	(2 5)
+12702.046984	Entering Unit	(2 6)
+12702.047465	Turn	From(2 5)	To(2 6)	L	LEFT
+12703.459342	Exiting Unit	(2 6)
+12703.459912	Entering Unit	(3 6)
+12703.460396	Turn	From(2 6)	To(3 6)	T	RIGHT
+12706.912815	Exiting Unit	(3 6)
+12706.913517	Entering Unit	(3 5)
+12706.914123	Turn	From(3 6)	To(3 5)	L	RIGHT
+12707.939015	ObjectFound	Maze2	4	4_TrashCan	Container
+12709.273074	Exiting Unit	(3 5)
+12714.646640	EndTrial	Training	Maze2	4	4_TrashCan	Container
+12717.485606	BeginTrial	Experiment	Maze2	1	2_Bucket	Container
+12717.486303	ShowObject	2_Bucket	Container
+12723.965310	Entering Unit	(0 3)
+12725.698577	Exiting Unit	(0 3)
+12725.699205	Entering Unit	(1 3)
+12725.699963	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12727.872050	Exiting Unit	(1 3)
+12727.872619	Entering Unit	(1 2)
+12727.873104	Turn	From(1 3)	To(1 2)	T	RIGHT
+12730.045196	Exiting Unit	(1 2)
+12730.045847	Entering Unit	(1 1)
+12730.046372	Turn	From(1 2)	To(1 1)	I	STRAIGHT
+12731.378557	Exiting Unit	(1 1)
+12731.379210	Entering Unit	(2 1)
+12731.381544	Turn	From(1 1)	To(2 1)	T	LEFT
+12733.512663	Exiting Unit	(2 1)
+12733.513227	Entering Unit	(2 0)
+12733.513753	Turn	From(2 1)	To(2 0)	L	RIGHT
+12735.751464	Exiting Unit	(2 0)
+12735.752042	Entering Unit	(3 0)
+12735.752603	Turn	From(2 0)	To(3 0)	T	LEFT
+12738.205091	Exiting Unit	(3 0)
+12738.205752	Entering Unit	(3 1)
+12738.206258	Turn	From(3 0)	To(3 1)	L	LEFT
+12739.938046	Exiting Unit	(3 1)
+12739.938663	Entering Unit	(3 2)
+12739.939072	Turn	From(3 1)	To(3 2)	I	STRAIGHT
+12741.671511	Exiting Unit	(3 2)
+12741.672120	Entering Unit	(3 3)
+12741.672622	Turn	From(3 2)	To(3 3)	I	STRAIGHT
+12743.337922	Exiting Unit	(3 3)
+12743.338505	Entering Unit	(2 3)
+12743.338936	Turn	From(3 3)	To(2 3)	L	LEFT
+12746.964671	Exiting Unit	(2 3)
+12746.965269	Entering Unit	(2 2)
+12746.965839	Turn	From(2 3)	To(2 2)	T	LEFT
+12748.177581	ObjectFound	Maze2	1	2_Bucket	Container
+12749.511565	Exiting Unit	(2 2)
+12754.884291	EndTrial	Experiment	Maze2	1	2_Bucket	Container
+12757.111126	BeginTrial	Experiment	Maze2	3	1_Barrel	Container
+12757.111914	ShowObject	1_Barrel	Container
+12763.750640	Entering Unit	(0 3)
+12765.510692	Exiting Unit	(0 3)
+12765.511399	Entering Unit	(1 3)
+12765.511992	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12767.163759	Exiting Unit	(1 3)
+12767.164399	Entering Unit	(1 4)
+12767.164985	Turn	From(1 3)	To(1 4)	T	LEFT
+12769.003622	Exiting Unit	(1 4)
+12769.004298	Entering Unit	(1 5)
+12769.004781	Turn	From(1 4)	To(1 5)	I	STRAIGHT
+12770.283805	Exiting Unit	(1 5)
+12770.284458	Entering Unit	(2 5)
+12770.284925	Turn	From(1 5)	To(2 5)	T	RIGHT
+12771.550264	Exiting Unit	(2 5)
+12771.550824	Entering Unit	(2 6)
+12771.551212	Turn	From(2 5)	To(2 6)	L	LEFT
+12774.776774	Exiting Unit	(2 6)
+12774.777347	Entering Unit	(1 6)
+12774.777856	Turn	From(2 6)	To(1 6)	T	LEFT
+12775.816483	ObjectFound	Maze2	3	1_Barrel	Container
+12777.150499	Exiting Unit	(1 6)
+12782.523186	EndTrial	Experiment	Maze2	3	1_Barrel	Container
+12786.123268	BeginTrial	Experiment	Maze2	4	4_TrashCan	Container
+12786.124026	ShowObject	4_TrashCan	Container
+12792.629594	Entering Unit	(0 3)
+12794.376227	Exiting Unit	(0 3)
+12794.376886	Entering Unit	(1 3)
+12794.377316	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12796.042708	Exiting Unit	(1 3)
+12796.043350	Entering Unit	(1 4)
+12796.043908	Turn	From(1 3)	To(1 4)	T	LEFT
+12797.829442	Exiting Unit	(1 4)
+12797.830089	Entering Unit	(1 5)
+12797.830667	Turn	From(1 4)	To(1 5)	I	STRAIGHT
+12799.642438	Exiting Unit	(1 5)
+12799.643003	Entering Unit	(2 5)
+12799.643582	Turn	From(1 5)	To(2 5)	T	RIGHT
+12800.709256	Exiting Unit	(2 5)
+12800.709830	Entering Unit	(2 6)
+12800.710295	Turn	From(2 5)	To(2 6)	L	LEFT
+12802.189029	Exiting Unit	(2 6)
+12802.189736	Entering Unit	(3 6)
+12802.190345	Turn	From(2 6)	To(3 6)	T	RIGHT
+12804.655690	Exiting Unit	(3 6)
+12804.656353	Entering Unit	(3 5)
+12804.656883	Turn	From(3 6)	To(3 5)	L	RIGHT
+12806.975323	ObjectFound	Maze2	4	4_TrashCan	Container
+12808.309259	Exiting Unit	(3 5)
+12813.682529	EndTrial	Experiment	Maze2	4	4_TrashCan	Container
+12816.295677	BeginTrial	Training	Maze1	0	6_Wrench	Tools_2
+12818.975671	ShowObject	6_Wrench	Tools_2
+12826.201503	Entering Unit	(0 3)
+12827.934758	Exiting Unit	(0 3)
+12827.935350	Entering Unit	(1 3)
+12827.935813	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12829.854953	Exiting Unit	(1 3)
+12829.855526	Entering Unit	(1 4)
+12829.855993	Turn	From(1 3)	To(1 4)	T	LEFT
+12831.641352	Exiting Unit	(1 4)
+12831.642036	Entering Unit	(1 5)
+12831.643052	Turn	From(1 4)	To(1 5)	I	STRAIGHT
+12833.561436	Exiting Unit	(1 5)
+12833.562014	Entering Unit	(2 5)
+12833.562707	Turn	From(1 5)	To(2 5)	L	RIGHT
+12835.347807	Exiting Unit	(2 5)
+12835.348388	Entering Unit	(3 5)
+12835.348887	Turn	From(2 5)	To(3 5)	I	STRAIGHT
+12836.694427	Exiting Unit	(3 5)
+12836.695013	Entering Unit	(3 6)
+12836.695596	Turn	From(3 5)	To(3 6)	T	LEFT
+12838.507831	Exiting Unit	(3 6)
+12838.508494	Entering Unit	(3 7)
+12838.508953	Turn	From(3 6)	To(3 7)	I	STRAIGHT
+12840.707548	Exiting Unit	(3 7)
+12840.708130	Entering Unit	(4 7)
+12840.708607	Turn	From(3 7)	To(4 7)	T	RIGHT
+12841.773936	ObjectFound	Maze1	0	6_Wrench	Tools_2
+12843.107774	Exiting Unit	(4 7)
+12848.481996	EndTrial	Training	Maze1	0	6_Wrench	Tools_2
+12850.814108	BeginTrial	Training	Maze1	0	6_Wrench	Tools_2
+12853.494281	ShowObject	6_Wrench	Tools_2
+12860.440503	Entering Unit	(0 3)
+12862.186954	Exiting Unit	(0 3)
+12862.187652	Entering Unit	(1 3)
+12862.188259	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12864.200313	Exiting Unit	(1 3)
+12864.200897	Entering Unit	(1 4)
+12864.201445	Turn	From(1 3)	To(1 4)	T	LEFT
+12865.933560	Exiting Unit	(1 4)
+12865.934136	Entering Unit	(1 5)
+12865.934730	Turn	From(1 4)	To(1 5)	I	STRAIGHT
+12868.599935	Exiting Unit	(1 5)
+12868.600584	Entering Unit	(2 5)
+12868.601058	Turn	From(1 5)	To(2 5)	L	RIGHT
+12870.386475	Exiting Unit	(2 5)
+12870.387055	Entering Unit	(3 5)
+12870.387586	Turn	From(2 5)	To(3 5)	I	STRAIGHT
+12871.959829	Exiting Unit	(3 5)
+12871.960405	Entering Unit	(3 6)
+12871.960825	Turn	From(3 5)	To(3 6)	T	LEFT
+12873.786424	Exiting Unit	(3 6)
+12873.787094	Entering Unit	(3 7)
+12873.787676	Turn	From(3 6)	To(3 7)	I	STRAIGHT
+12876.066215	Exiting Unit	(3 7)
+12876.066844	Entering Unit	(4 7)
+12876.067417	Turn	From(3 7)	To(4 7)	T	RIGHT
+12877.079282	ObjectFound	Maze1	0	6_Wrench	Tools_2
+12878.413139	Exiting Unit	(4 7)
+12883.786321	EndTrial	Training	Maze1	0	6_Wrench	Tools_2
+12885.626121	BeginTrial	Training	Maze1	2	1_Drill	Tools_2
+12888.306184	ShowObject	1_Drill	Tools_2
+12895.425688	Entering Unit	(0 3)
+12897.185834	Exiting Unit	(0 3)
+12897.186412	Entering Unit	(1 3)
+12897.186894	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12899.892400	Exiting Unit	(1 3)
+12899.893053	Entering Unit	(1 2)
+12899.893704	Turn	From(1 3)	To(1 2)	T	RIGHT
+12901.358744	Exiting Unit	(1 2)
+12901.359327	Entering Unit	(2 2)
+12901.359920	Turn	From(1 2)	To(2 2)	L	LEFT
+12903.211988	Exiting Unit	(2 2)
+12903.212670	Entering Unit	(3 2)
+12903.213182	Turn	From(2 2)	To(3 2)	I	STRAIGHT
+12905.731926	Exiting Unit	(3 2)
+12905.732579	Entering Unit	(3 1)
+12905.733082	Turn	From(3 2)	To(3 1)	T	RIGHT
+12907.638642	Exiting Unit	(3 1)
+12907.639388	Entering Unit	(3 0)
+12907.639849	Turn	From(3 1)	To(3 0)	I	STRAIGHT
+12908.491669	Exiting Unit	(3 0)
+12908.492237	Entering Unit	(4 0)
+12908.493440	Turn	From(3 0)	To(4 0)	T	LEFT
+12910.958028	ObjectFound	Maze1	2	1_Drill	Tools_2
+12912.292089	Exiting Unit	(4 0)
+12917.664856	EndTrial	Training	Maze1	2	1_Drill	Tools_2
+12919.691638	BeginTrial	Training	Maze1	2	1_Drill	Tools_2
+12922.371717	ShowObject	1_Drill	Tools_2
+12928.771093	Entering Unit	(0 3)
+12930.650951	Exiting Unit	(0 3)
+12930.651616	Entering Unit	(1 3)
+12930.652081	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12933.171050	Exiting Unit	(1 3)
+12933.171636	Entering Unit	(1 2)
+12933.172136	Turn	From(1 3)	To(1 2)	T	RIGHT
+12934.157712	Exiting Unit	(1 2)
+12934.158800	Entering Unit	(2 2)
+12934.159551	Turn	From(1 2)	To(2 2)	L	LEFT
+12940.730747	Exiting Unit	(2 2)
+12940.731392	Entering Unit	(3 2)
+12940.731918	Turn	From(2 2)	To(3 2)	I	STRAIGHT
+12943.543745	Exiting Unit	(3 2)
+12943.544450	Entering Unit	(3 1)
+12943.545070	Turn	From(3 2)	To(3 1)	T	RIGHT
+12945.557126	Exiting Unit	(3 1)
+12945.557761	Entering Unit	(3 0)
+12945.558514	Turn	From(3 1)	To(3 0)	I	STRAIGHT
+12946.423669	Exiting Unit	(3 0)
+12946.424475	Entering Unit	(4 0)
+12946.425881	Turn	From(3 0)	To(4 0)	T	LEFT
+12949.796551	ObjectFound	Maze1	2	1_Drill	Tools_2
+12951.130509	Exiting Unit	(4 0)
+12956.503481	EndTrial	Training	Maze1	2	1_Drill	Tools_2
+12958.036666	BeginTrial	Training	Maze1	4	2_Hacksaw	Tools_2
+12960.716814	ShowObject	2_Hacksaw	Tools_2
+12967.476325	Entering Unit	(0 3)
+12969.222875	Exiting Unit	(0 3)
+12969.223538	Entering Unit	(1 3)
+12969.224890	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+12972.156317	Exiting Unit	(1 3)
+12972.156964	Entering Unit	(1 2)
+12972.157458	Turn	From(1 3)	To(1 2)	T	RIGHT
+12973.049371	Exiting Unit	(1 2)
+12973.049942	Entering Unit	(2 2)
+12973.050405	Turn	From(1 2)	To(2 2)	L	LEFT
+12975.596502	Exiting Unit	(2 2)
+12975.597136	Entering Unit	(3 2)
+12975.597572	Turn	From(2 2)	To(3 2)	I	STRAIGHT
+12978.475823	Exiting Unit	(3 2)
+12978.476464	Entering Unit	(3 1)
+12978.477935	Turn	From(3 2)	To(3 1)	T	RIGHT
+12980.275743	Exiting Unit	(3 1)
+12980.276380	Entering Unit	(3 0)
+12980.276941	Turn	From(3 1)	To(3 0)	I	STRAIGHT
+12982.569190	Exiting Unit	(3 0)
+12982.569834	Entering Unit	(2 0)
+12982.570331	Turn	From(3 0)	To(2 0)	T	RIGHT
+12984.702532	Exiting Unit	(2 0)
+12984.703185	Entering Unit	(2 1)
+12984.703718	Turn	From(2 0)	To(2 1)	L	RIGHT
+12986.275715	Exiting Unit	(2 1)
+12986.276303	Entering Unit	(1 1)
+12986.276735	Turn	From(2 1)	To(1 1)	L	LEFT
+12988.648921	Exiting Unit	(1 1)
+12988.649495	Entering Unit	(0 1)
+12988.649941	Turn	From(1 1)	To(0 1)	I	STRAIGHT
+12990.462350	Exiting Unit	(0 1)
+12990.462906	Entering Unit	(0 0)
+12990.463428	Turn	From(0 1)	To(0 0)	T	LEFT
+12991.808431	ObjectFound	Maze1	4	2_Hacksaw	Tools_2
+12993.142075	Exiting Unit	(0 0)
+12998.515323	EndTrial	Training	Maze1	4	2_Hacksaw	Tools_2
+13002.128406	BeginTrial	Training	Maze1	4	2_Hacksaw	Tools_2
+13004.808672	ShowObject	2_Hacksaw	Tools_2
+13011.088232	Entering Unit	(0 3)
+13012.821261	Exiting Unit	(0 3)
+13012.821855	Entering Unit	(1 3)
+13012.822394	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+13015.568792	Exiting Unit	(1 3)
+13015.569342	Entering Unit	(1 2)
+13015.569830	Turn	From(1 3)	To(1 2)	T	RIGHT
+13018.047755	Exiting Unit	(1 2)
+13018.048451	Entering Unit	(2 2)
+13018.049049	Turn	From(1 2)	To(2 2)	L	LEFT
+13019.794235	Exiting Unit	(2 2)
+13019.794812	Entering Unit	(3 2)
+13019.795286	Turn	From(2 2)	To(3 2)	I	STRAIGHT
+13022.327693	Exiting Unit	(3 2)
+13022.328344	Entering Unit	(3 1)
+13022.328889	Turn	From(3 2)	To(3 1)	T	RIGHT
+13025.140717	Exiting Unit	(3 1)
+13025.141297	Entering Unit	(3 0)
+13025.141823	Turn	From(3 1)	To(3 0)	I	STRAIGHT
+13027.380790	Exiting Unit	(3 0)
+13027.381443	Entering Unit	(2 0)
+13027.381951	Turn	From(3 0)	To(2 0)	T	RIGHT
+13029.607567	Exiting Unit	(2 0)
+13029.608280	Entering Unit	(2 1)
+13029.608841	Turn	From(2 0)	To(2 1)	L	RIGHT
+13030.767227	Exiting Unit	(2 1)
+13030.767830	Entering Unit	(1 1)
+13030.768385	Turn	From(2 1)	To(1 1)	L	LEFT
+13033.273921	Exiting Unit	(1 1)
+13033.274492	Entering Unit	(0 1)
+13033.274999	Turn	From(1 1)	To(0 1)	I	STRAIGHT
+13035.967064	Exiting Unit	(0 1)
+13035.967730	Entering Unit	(0 0)
+13035.968270	Turn	From(0 1)	To(0 0)	T	LEFT
+13037.233349	ObjectFound	Maze1	4	2_Hacksaw	Tools_2
+13038.567098	Exiting Unit	(0 0)
+13043.940204	EndTrial	Training	Maze1	4	2_Hacksaw	Tools_2
+13049.619879	BeginTrial	Experiment	Maze1	0	6_Wrench	Tools_2
+13049.620673	ShowObject	6_Wrench	Tools_2
+13057.046591	Entering Unit	(0 3)
+13059.179491	Exiting Unit	(0 3)
+13059.180100	Entering Unit	(1 3)
+13059.182528	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+13062.032949	Exiting Unit	(1 3)
+13062.033542	Entering Unit	(1 4)
+13062.034019	Turn	From(1 3)	To(1 4)	T	LEFT
+13063.859247	Exiting Unit	(1 4)
+13063.859933	Entering Unit	(1 5)
+13063.860570	Turn	From(1 4)	To(1 5)	I	STRAIGHT
+13064.725913	Exiting Unit	(1 5)
+13064.726569	Entering Unit	(2 5)
+13064.727022	Turn	From(1 5)	To(2 5)	L	RIGHT
+13067.565800	Exiting Unit	(2 5)
+13067.566378	Entering Unit	(3 5)
+13067.566848	Turn	From(2 5)	To(3 5)	I	STRAIGHT
+13070.618976	Exiting Unit	(3 5)
+13070.619699	Entering Unit	(3 6)
+13070.620238	Turn	From(3 5)	To(3 6)	T	LEFT
+13072.472247	Exiting Unit	(3 6)
+13072.472938	Entering Unit	(3 7)
+13072.473436	Turn	From(3 6)	To(3 7)	I	STRAIGHT
+13073.325560	Exiting Unit	(3 7)
+13073.326177	Entering Unit	(4 7)
+13073.326811	Turn	From(3 7)	To(4 7)	T	RIGHT
+13075.778547	ObjectFound	Maze1	0	6_Wrench	Tools_2
+13077.112433	Exiting Unit	(4 7)
+13082.485568	EndTrial	Experiment	Maze1	0	6_Wrench	Tools_2
+13084.405456	BeginTrial	Experiment	Maze1	2	1_Drill	Tools_2
+13084.406147	ShowObject	1_Drill	Tools_2
+13090.671690	Entering Unit	(0 3)
+13092.405087	Exiting Unit	(0 3)
+13092.405763	Entering Unit	(1 3)
+13092.406333	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+13094.298188	Exiting Unit	(1 3)
+13094.298846	Entering Unit	(1 2)
+13094.299354	Turn	From(1 3)	To(1 2)	T	RIGHT
+13095.484828	Exiting Unit	(1 2)
+13095.485405	Entering Unit	(2 2)
+13095.485886	Turn	From(1 2)	To(2 2)	L	LEFT
+13097.831448	Exiting Unit	(2 2)
+13097.832120	Entering Unit	(3 2)
+13097.832555	Turn	From(2 2)	To(3 2)	I	STRAIGHT
+13100.191203	Exiting Unit	(3 2)
+13100.191791	Entering Unit	(3 1)
+13100.192213	Turn	From(3 2)	To(3 1)	T	RIGHT
+13102.071194	Exiting Unit	(3 1)
+13102.071775	Entering Unit	(3 0)
+13102.072198	Turn	From(3 1)	To(3 0)	I	STRAIGHT
+13102.911260	Exiting Unit	(3 0)
+13102.911889	Entering Unit	(4 0)
+13102.912370	Turn	From(3 0)	To(4 0)	T	LEFT
+13105.124113	ObjectFound	Maze1	2	1_Drill	Tools_2
+13106.458205	Exiting Unit	(4 0)
+13111.831024	EndTrial	Experiment	Maze1	2	1_Drill	Tools_2
+13114.004370	BeginTrial	Experiment	Maze1	4	2_Hacksaw	Tools_2
+13114.005125	ShowObject	2_Hacksaw	Tools_2
+13120.564007	Entering Unit	(0 3)
+13122.297242	Exiting Unit	(0 3)
+13122.297871	Entering Unit	(1 3)
+13122.298437	Turn	From(0 3)	To(1 3)	I	STRAIGHT
+13124.350391	Exiting Unit	(1 3)
+13124.350976	Entering Unit	(1 2)
+13124.352664	Turn	From(1 3)	To(1 2)	T	RIGHT
+13125.243818	Exiting Unit	(1 2)
+13125.244487	Entering Unit	(2 2)
+13125.244981	Turn	From(1 2)	To(2 2)	L	LEFT
+13127.697007	Exiting Unit	(2 2)
+13127.697601	Entering Unit	(3 2)
+13127.698078	Turn	From(2 2)	To(3 2)	I	STRAIGHT
+13129.643551	Exiting Unit	(3 2)
+13129.644204	Entering Unit	(3 1)
+13129.644626	Turn	From(3 2)	To(3 1)	T	RIGHT
+13131.470241	Exiting Unit	(3 1)
+13131.470930	Entering Unit	(3 0)
+13131.471471	Turn	From(3 1)	To(3 0)	I	STRAIGHT
+13135.843434	Exiting Unit	(3 0)
+13135.844035	Entering Unit	(2 0)
+13135.844611	Turn	From(3 0)	To(2 0)	T	RIGHT
+13138.003363	Exiting Unit	(2 0)
+13138.004006	Entering Unit	(2 1)
+13138.004534	Turn	From(2 0)	To(2 1)	L	RIGHT
+13138.976743	Exiting Unit	(2 1)
+13138.977429	Entering Unit	(1 1)
+13138.977997	Turn	From(2 1)	To(1 1)	L	LEFT
+13141.363034	Exiting Unit	(1 1)
+13141.363613	Entering Unit	(0 1)
+13141.364175	Turn	From(1 1)	To(0 1)	I	STRAIGHT
+13143.616453	Exiting Unit	(0 1)
+13143.617121	Entering Unit	(0 0)
+13143.617674	Turn	From(0 1)	To(0 0)	T	LEFT
+13144.815974	ObjectFound	Maze1	4	2_Hacksaw	Tools_2
+13146.149902	Exiting Unit	(0 0)
+13151.523092	EndTrial	Experiment	Maze1	4	2_Hacksaw	Tools_2
+13151.524708	End Condition 'mobi'
+13151.530445	End Experiment

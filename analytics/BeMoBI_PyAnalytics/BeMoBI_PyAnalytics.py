@@ -1,16 +1,13 @@
 import os
 import pandas as pd
 import seaborn as sns
-dataDir = '..\\..\\..\\..\\logs\\statistics'
 
-dataSources = os.listdir(dataDir)
+dataDir = '..\\Test_Data\\'
+pilotMarkerDataFile = 'Pilot.csv'
 
-dFs = []
+df = pd.read_csv( dataDir + '\\' + pilotMarkerDataFile,sep='\t', engine='python') 
 
-for sourceFile in dataSources:
-    df = pd.read_csv( dataDir + '\\' + sourceFile , skiprows = 3, skip_footer = 3, engine='python', sep='\t') 
-    dFs.append( df )
-
+repr(df.head())
 
 
 # TODO times per position
