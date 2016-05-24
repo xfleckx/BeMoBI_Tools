@@ -4,8 +4,6 @@ import hypermedia.net.*;
 import java.util.*;
 import java.util.regex.Pattern;
 
-Pattern infoMessagePattern = Pattern.compile(".*(Info)");
-
 int PORT_RX=4242;
 String HOST_IP = "localhost";//IP Address of the PC in which this App is running
 UDP udp;//Create UDP object for recieving
