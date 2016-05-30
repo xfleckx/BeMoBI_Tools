@@ -2,8 +2,8 @@ import controlP5.*;
 import java.util.*;
 import hypermedia.net.*;
 
-int PORT_SX=4243; 
-int PORT_TX=4242;
+int PORT_SX=7500; 
+int PORT_TX=7501;
 String HOST_IP = "localhost";//IP Address of the PC in which this App is running
 UDP udp;//Create UDP object for recieving
 
@@ -29,7 +29,7 @@ void setup(){
      .setSize(50,20)
      .setFocus(true)
      .setColor(color(255,0,0))
-     .setValue("4242")
+     .setValue(PORT_TX)
      ;
      
   cp5.addButton("Send")
@@ -46,11 +46,12 @@ public void controlEvent(ControlEvent theEvent) {
 
 public void Send() { 
   String logType = "Info"; 
-  udp.send(new Date() + logType + " Buzz ", "localhost", 4242);
+  String targetHostName = GetTargetHostName();
+  udp.send(new Date() + logType + " Buzz ", targetHostName, PORT_TX); //<>//
 }
 
 String GetTargetHostName(){
- return cp5.get(Textfield.class,"target host name").getStringValue();
+ return cp5.get(Textfield.class,"target host name").getText();
 }
 
 int GetTargetPortName(){
