@@ -4,7 +4,7 @@ import hypermedia.net.*;
 import java.util.*;
 import java.util.regex.Pattern;
 
-int PORT_RX=4242;
+int PORT_RX=7502;
 String HOST_IP = "localhost";//IP Address of the PC in which this App is running
 UDP udp;//Create UDP object for recieving
 
@@ -14,19 +14,26 @@ LogHistory history;
 int x_margin = 5;
 int y_margin = 30;
 
-int fontSize = 16;
+int fontSize = 18;
 
 int entryMargin = 3;
 int initialOffset = 5;
+
 void setup() {
-  udp= new UDP(this, PORT_RX, HOST_IP);
-  udp.log(false);
-  udp.listen(true);
-  
   cp5 = new ControlP5(this);
-       
-  cp5.addButton("Clear")
+  
+    cp5.addTextfield("portToListen")
      .setPosition(4,4)
+     .setSize(50,19)
+     .setColor(color(255,0,0))
+     .setText(str(PORT_RX));
+     
+  cp5.addButton("Listen")
+   .setPosition(54,4)
+   .setSize(50,19);
+   
+  cp5.addButton("Clear")
+     .setPosition(154,4)
      .setSize(50,19);
      
   size(1024, 350);
@@ -40,12 +47,19 @@ void draw() {
   
   background(0);
 
+  renderLogHistory();
+  
+  
+}
+
+void renderLogHistory(){
   int y_offset = 0;
   pushStyle();
   pushMatrix();
   translate(x_margin, y_margin);
   ListIterator<LogEntry> iterator = history.listIterator();
-  initialOffset = 5;
+  initialOffset = 10;
+  
   while(iterator.hasPrevious() && y_offset < height) {
      LogEntry current = iterator.previous();
      current.render(new PVector(0, y_offset), width - x_margin, 50);
@@ -87,6 +101,20 @@ public LogEntry GetFrom(String s) {
     e.textColor = color( 245, 175, 44 );
   }
   return e;
+}
+
+
+public void Listen(){
+  
+  if(udp != null)
+    udp.close();
+  
+  PORT_RX = int(cp5.get(Textfield.class,"portToListen").getText());
+  
+  udp= new UDP(this, PORT_RX, HOST_IP);
+  udp.log(false);
+  udp.listen(true);
+  
 }
 
 public void Clear() {
