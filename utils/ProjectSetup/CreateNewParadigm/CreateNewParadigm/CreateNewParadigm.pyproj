@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8bdf3ca1-3ad1-49a8-857c-4ec54abd72de</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CreateNewParadigm.py</StartupFile>
+    <StartupFile>CreateNewExperiment.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="CreateNewParadigm.py" />
+    <Compile Include="CreateNewExperiment.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
