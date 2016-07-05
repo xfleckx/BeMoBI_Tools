@@ -60,3 +60,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+utils/RemoteBatteryMonitor/BatteryMonitor/obj/
+utils/RemoteBatteryMonitor/BatteryMonitor/bin/
+utils/RemoteBatteryMonitor/RemoteBatteryMonitor/bin/

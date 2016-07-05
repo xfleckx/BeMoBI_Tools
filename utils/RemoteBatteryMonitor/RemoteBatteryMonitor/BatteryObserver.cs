@@ -1,50 +1,27 @@
-﻿using System; 
-using System.Net.Sockets; 
+﻿using System;
 using System.Windows.Forms;
 
 namespace RemoteBatteryMonitor
 {
-    class BatteryObserver
+    public class BatteryObserver
     {
-        private int remotePort;
-        private string targetHostName;
-       
         private System.Threading.Timer updateExecutor;
-        private Action<int> onNewStatusAvailable;
+        public event Action<int> onNewStatusAvailable;
         private int updateIntervall;
 
-        TcpClient client;
-
-        public BatteryObserver(string targetHostName, int remotePort, int updateIntervall, Action<int> onNewStatusAvailable)
+        public BatteryObserver(int updateIntervallInMilliseconds, Action<int> onNewStatusAvailable)
         {
-            this.targetHostName = targetHostName;
-
-            this.remotePort = remotePort;
-
-            this.updateIntervall = updateIntervall;
+            this.updateIntervall = updateIntervallInMilliseconds;
 
             this.onNewStatusAvailable = onNewStatusAvailable;
         }
 
         public void Initialize(object state = null)
         {
-            try
-            {
-                client = new TcpClient(targetHostName, remotePort);
-            }
-            catch (Exception)
-            {
-                if(updateExecutor == null) {
-                    Console.Error.WriteLine("Connection attemp failed - retry...");
-                    updateExecutor = new System.Threading.Timer(Initialize, state, 0, updateIntervall * 1000 * 60);
-                }
-            }
-
             if (updateExecutor != null)
                 updateExecutor.Dispose();
-
-            Console.Error.WriteLine("Connection attemp succeed - Lookup battery state...");
-            updateExecutor = new System.Threading.Timer(LookUpBatteryState, state, 0, updateIntervall * 1000 * 60);
+            
+            updateExecutor = new System.Threading.Timer(LookUpBatteryState, state, 0, updateIntervall);
         }
 
         private void LookUpBatteryState(object state)
@@ -54,22 +31,11 @@ namespace RemoteBatteryMonitor
             int status = (int)(p.BatteryLifePercent * 100);
 
             onNewStatusAvailable(status);
-
-            publishStatus(status);
         }
 
-        public void publishStatus(int percentage)
+        public void Shutdown()
         {
-            var message = string.Format("Battery: {0}%", percentage);
-
-            Byte[] data = System.Text.Encoding.ASCII.GetBytes(message);
-            
-            NetworkStream stream = client.GetStream();
-            
-            stream.Write(data, 0, data.Length);
-
-            Console.WriteLine("Sent: {0}", message);
+            updateExecutor.Dispose();
         }
-
     }
 }
