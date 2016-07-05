@@ -1,0 +1,11 @@
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\RemoteBatteryMonitor\RemoteBatteryMonitor\bin\Debug\RemoteBatteryMonitor.exe
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\RemoteBatteryMonitor\RemoteBatteryMonitor\bin\Debug\RemoteBatteryMonitor.pdb
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\RemoteBatteryMonitor\RemoteBatteryMonitor\bin\Debug\CommandLine.dll
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\RemoteBatteryMonitor\RemoteBatteryMonitor\bin\Debug\CommandLine.xml
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\RemoteBatteryMonitor\RemoteBatteryMonitor\obj\Debug\RemoteBatteryMonitor.exe
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\RemoteBatteryMonitor\RemoteBatteryMonitor\obj\Debug\RemoteBatteryMonitor.pdb
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\RemoteBatteryMonitor\RemoteBatteryMonitor\bin\Debug\RemoteBatteryMonitor.exe.config
+C:\Users\Markus\documents\visual studio 2015\Projects\RemoteBatteryMonitor\RemoteBatteryMonitor\obj\Debug\RemoteBatteryMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Markus\Documents\git_repos\BeMoBI_Tools\utils\RemoteBatteryMonitor\RemoteBatteryMonitor\bin\Debug\RemoteBatteryMonitor.exe.config
+C:\Users\Markus\Documents\git_repos\BeMoBI_Tools\utils\RemoteBatteryMonitor\RemoteBatteryMonitor\obj\Debug\RemoteBatteryMonitor.exe
+C:\Users\Markus\Documents\git_repos\BeMoBI_Tools\utils\RemoteBatteryMonitor\RemoteBatteryMonitor\obj\Debug\RemoteBatteryMonitor.pdb
