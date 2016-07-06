@@ -1,6 +1,6 @@
 ﻿namespace BatteryMonitor
 {
-    partial class Form1
+    partial class Main
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.button1 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBoxStreamName = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.button2 = new System.Windows.Forms.Button();
@@ -51,20 +51,22 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox1
+            // textBoxStreamName
             // 
-            this.textBox1.Location = new System.Drawing.Point(13, 25);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 1;
+            this.textBoxStreamName.Location = new System.Drawing.Point(13, 25);
+            this.textBoxStreamName.Name = "textBoxStreamName";
+            this.textBoxStreamName.Size = new System.Drawing.Size(100, 20);
+            this.textBoxStreamName.TabIndex = 1;
+            this.textBoxStreamName.Validating += new System.ComponentModel.CancelEventHandler(this.streamNameTextBox_Validating);
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(157, 25);
+            this.textBox2.Location = new System.Drawing.Point(134, 25);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 2;
-            this.textBox2.Validating += new System.ComponentModel.CancelEventHandler(this.textBox2_Validating);
+            this.textBox2.Validating += new System.ComponentModel.CancelEventHandler(this.updateIntervalltextBox_Validating);
+            this.textBox2.Validated += new System.EventHandler(this.updateIntervalltextBox_Validated);
             // 
             // errorProvider1
             // 
@@ -92,17 +94,17 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(154, 9);
+            this.label2.Location = new System.Drawing.Point(131, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(68, 13);
+            this.label2.Size = new System.Drawing.Size(90, 13);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Update Rate";
+            this.label2.Text = "Update Rate (ms)";
             // 
             // progressBar1
             // 
             this.progressBar1.Location = new System.Drawing.Point(58, 51);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(199, 13);
+            this.progressBar1.Size = new System.Drawing.Size(176, 13);
             this.progressBar1.TabIndex = 6;
             // 
             // label3
@@ -114,21 +116,23 @@
             this.label3.TabIndex = 7;
             this.label3.Text = "Battery";
             // 
-            // Form1
+            // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(282, 99);
+            this.ClientSize = new System.Drawing.Size(249, 99);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.textBoxStreamName);
             this.Controls.Add(this.button1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Name = "Form1";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.Name = "Main";
+            this.ShowIcon = false;
             this.Text = "BatteryStatus";
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
@@ -139,7 +143,7 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBoxStreamName;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.ErrorProvider errorProvider1;
         private System.Windows.Forms.Button button2;
