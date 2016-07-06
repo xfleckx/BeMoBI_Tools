@@ -25,4 +25,4 @@ while True:
 	sample, timestamp = inlet.pull_sample()
 
 	if(sample):
-		print('Battery Status of ' + hostName + ' ' + str(sample[0]) +'%')
+		print(str(timestamp) + ' Battery Status of ' + hostName + ' ' + str(sample[0]) +'%')
