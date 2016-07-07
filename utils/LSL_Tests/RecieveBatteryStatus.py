@@ -5,7 +5,7 @@ from pylsl import StreamInlet, resolve_stream
  
 
 # first resolve an EEG stream on the lab network
-print("looking for an BatteryStatus stream...")
+print("looking for a BatteryStatus stream...")
 streams = resolve_stream('name', 'BatteryStatus')
 
 streamsFound = len(streams)
