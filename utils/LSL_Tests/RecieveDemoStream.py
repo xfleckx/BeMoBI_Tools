@@ -23,5 +23,5 @@ while True:
 	sample, timestamp = inlet.pull_sample()
 
 	if(sample):
-		print "\033[K", str(timestamp) + ' Quaternion: ' + ' '.join(str(sample[x]) for x in range(0,len(sample))), "\r",
+		print str(timestamp) + ' Quaternion: ' + ' '.join(str(sample[x]) for x in range(0,len(sample))), "\r",
 		sys.stdout.flush()
