@@ -2,7 +2,7 @@ import controlP5.*;
 import java.util.*;
 import hypermedia.net.*;
 
-int PORT_TX=7502;
+int PORT_TX=41234;
 String HOST_IP = "localhost";//IP Address of the PC in which this App is running
 UDP udp;//Create UDP object for recieving
 

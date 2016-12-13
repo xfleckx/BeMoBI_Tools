@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>332e0911-f81c-4f6b-a1c7-d5f618544bbc</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>LSL2Vispy.py</StartupFile>
+    <StartupFile>SimplestCase.py</StartupFile>
     <SearchPath>pylsl\</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -33,6 +33,7 @@
     <Compile Include="Renderer.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="SimplestCase.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="{9a7a9026-48c1-4688-9d5d-e5699d47d074}\2.7" />

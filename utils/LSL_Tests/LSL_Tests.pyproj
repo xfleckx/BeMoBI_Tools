@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{ea0824be-9350-4fc5-b4ea-7c42089f1702}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>RecieveBatteryStatus.py</StartupFile>
+    <StartupFile>SendSphericalData.py</StartupFile>
     <SearchPath>pylsl\</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>

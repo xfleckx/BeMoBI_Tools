@@ -8,10 +8,10 @@ from collections import deque
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
-MAX_ELEMENTS_IN_QUEUE = 5
+MAX_ELEMENTS_IN_QUEUE = 20
 
 # first resolve an EEG stream on the lab network
-print("looking for an Unity3D.Marker stream...")
+print("looking for an an stream of type 'markers'...")
 streams = resolve_stream('type', 'markers')
 
 streamsFound = len(streams)
